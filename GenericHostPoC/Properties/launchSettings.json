@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GenericHostPoC": {
+      "commandName": "Project",
+      "commandLineArgs": "name=Peter age=25"
+    }
+  }
+}
